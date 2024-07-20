@@ -1,0 +1,95 @@
+@charset "ISO-8859-1";
+html{background: #bdbdd6;
+  margin: 0;
+}
+.nav {
+    font-family: 'Shadows Into Light Two';
+    font-size: 180%;
+    position: absolute;
+    left : 20px;
+    top:10px;
+}
+
+.nav > li {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.nav > li > a {
+    color: white;
+    width: 190px;
+    height: 100px;
+    background: linear-gradient(83deg, rgba(17,17,52,1) 0%, rgba(66,21,29,1) 100%);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    transition: transform 0.3s, box-shadow 0.3s; 
+}
+
+.nav > li > a:hover {
+    transform: scale(1.1); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    background: rgb(0,0,0); 
+}
+
+.data{
+    position:absolute;
+    top:180px;
+    left:80px;
+    
+}
+.data > h1 {
+	margin-top:8px;
+    font-family: 'Shadows Into Light Two', cursive; 
+    font-size: 280%;
+    color: black;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    border-bottom: 6px solid #e74c3c; 
+    display: inline-block; 
+}
+.data > h3{
+	font-family: 'Shadows Into Light Two', cursive; 
+    font-size: 200%;
+    color: black; 
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.3);
+    margin-right: 200px;
+}
+.image-container {
+    position: absolute;
+    left :500px;
+
+    width: 400px; 
+    height: 500px;
+}
+.li {
+    width: 150px; 
+    height: 150px;
+    position : absolute;
+    left : 50px;
+    top: 300px;
+}
+.cn {
+    width: 120px; 
+    height: 110px;
+    position : absolute;
+    left : 280px;
+    bottom : 265px;
+}
+.leet {
+    width: 140px; 
+    height: 140px;
+    position : absolute;
+    left : 350px;
+    bottom : 327px;
+}
+.git {
+    width: 110px; 
+    height: 110px;
+    position : absolute;
+    left : 430px;
+    bottom : 390px;
+}
+
