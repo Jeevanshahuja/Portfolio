@@ -36,7 +36,7 @@ html{background: #bdbdd6;
 
 .data{
     position:absolute;
-    top:40%;
+    top:25%;
     left:80px;
     
 }
@@ -50,6 +50,7 @@ html{background: #bdbdd6;
     display: inline-block; 
 }
 .data > h3{
+    margin-top: -10px;
 	font-family: 'Shadows Into Light Two', cursive; 
     font-size: 200%;
     color: black; 
@@ -68,27 +69,27 @@ html{background: #bdbdd6;
     height: 150px;
     position : absolute;
     left : 50px;
-    top: 105%;
+    top: 70%;
 }
 .cn {
     width: 120px; 
     height: 110px;
     position : absolute;
     left : 130px;
-    top:116.5%;
+    top:76%;
 }
 .leet {
     width: 140px; 
     height: 140px;
     position : absolute;
     left : 197px;
-    top: 108.5%;
+    top: 72%;
 }
 .git {
     width: 110px; 
     height: 110px;
     position : absolute;
     left : 275px;
-    top:117%;
+    top:76%;
 }
 
