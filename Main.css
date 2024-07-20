@@ -1,13 +1,12 @@
 @charset "ISO-8859-1";
 html{background: #bdbdd6;
-  margin: 0;
 }
 .nav {
     font-family: 'Shadows Into Light Two';
     font-size: 180%;
     position: absolute;
-    left : 20px;
-    top:10px;
+    left : 2%;
+    top:1%px;
 }
 
 .nav > li {
@@ -37,7 +36,7 @@ html{background: #bdbdd6;
 
 .data{
     position:absolute;
-    top:180px;
+    top:40%;
     left:80px;
     
 }
@@ -69,27 +68,27 @@ html{background: #bdbdd6;
     height: 150px;
     position : absolute;
     left : 50px;
-    top: 320px;
+    top: 105%;
 }
 .cn {
     width: 120px; 
     height: 110px;
     position : absolute;
     left : 130px;
-    top:332px;
+    top:116.5%;
 }
 .leet {
     width: 140px; 
     height: 140px;
     position : absolute;
     left : 197px;
-    top: 325px;
+    top: 108.5%;
 }
 .git {
     width: 110px; 
     height: 110px;
     position : absolute;
     left : 275px;
-    top:333px;
+    top:117%;
 }
 
