@@ -55,12 +55,12 @@ html{background: #bdbdd6;
     font-size: 200%;
     color: black; 
     text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.3);
-    margin-right: 200px;
+    margin-right: 500px;
 }
 .image-container {
     position: absolute;
-    left :500px;
-
+    left :540px;
+    top:80px;
     width: 400px; 
     height: 500px;
 }
@@ -69,27 +69,27 @@ html{background: #bdbdd6;
     height: 150px;
     position : absolute;
     left : 50px;
-    top: 300px;
+    top: 320px;
 }
 .cn {
     width: 120px; 
     height: 110px;
     position : absolute;
-    left : 280px;
-    bottom : 265px;
+    left : 130px;
+    top:332px;
 }
 .leet {
     width: 140px; 
     height: 140px;
     position : absolute;
-    left : 350px;
-    bottom : 327px;
+    left : 197px;
+    top: 325px;
 }
 .git {
     width: 110px; 
     height: 110px;
     position : absolute;
-    left : 430px;
-    bottom : 390px;
+    left : 275px;
+    top:333px;
 }
 
